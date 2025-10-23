@@ -7,7 +7,7 @@ This project focuses on the mechanical system design of a Medical Computed Tomog
 - Rotating gantry structure with integrated X-ray tube and detector mounts
 - Motorized patient handling table with precise positioning
 - Use of industry-standard components such as Philips 800 MRC X-ray tube and NanoPanel Prism detector
-- CAD modeling performed in SolidWorks, focusing on modular components and assembly
+- CAD modeling performed in AutoDesk Inventor, focusing on modular components and assembly
 - System designed for ease of maintenance and minimal mechanical vibration
 - Preliminary testing confirms compliance with safety and quality standards
 
